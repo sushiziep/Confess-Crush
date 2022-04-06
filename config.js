@@ -15,6 +15,5 @@ const CONFIG = {
     reply: 'Anh yêu em không cần lý do',
     mess: 'Em biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
     messDesc: 'Gửi những điều tốt đẹp nhất đến với anh nhân ngày 6/4. Chúc anh luôn vui vẻ, hạnh phúc, học tốt và yêu em nhiều hơn.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/diep.didom.9/'
+    btnAccept: 'Okiiiii lun <3'
 }
